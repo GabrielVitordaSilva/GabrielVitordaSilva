@@ -55,37 +55,20 @@ Cursando **Análise e Desenvolvimento de Sistemas no SENAI**, com foco em Java, 
 
 ## 🏢 Experiência Profissional
 
-<table>
-<tr>
-<td>
-
 ### 🔵 Unifique Telecomunicações — Timbó/SC
-
-</td>
-</tr>
-<tr>
-<td>
 
 **👑 Líder de Equipe de Suporte Técnico** &nbsp;`Dez/2023 → Presente`
 
-```
-✅ Gestão de equipe de atendimento técnico multicanal
-✅ Análise de indicadores: CSAT · TMA · TME · Qualidade
-✅ Desenvolvimento e aplicação de treinamentos internos
-✅ Dashboards em Power BI para análise de performance
-```
+- ✅ Gestão de equipe de atendimento técnico multicanal
+- ✅ Análise de indicadores: CSAT · TMA · TME · Qualidade
+- ✅ Desenvolvimento e aplicação de treinamentos internos
+- ✅ Dashboards em Power BI para análise de performance
 
 **🔧 Analista de Suporte / Facilitador** &nbsp;`Mar/2021 → Dez/2023`
 
-```
-✅ Atendimento técnico N1/N2/N3 (internet, telefonia, TV)
-✅ Apoio técnico à equipe como facilitador
-✅ Documentação de processos e treinamento prático
-```
-
-</td>
-</tr>
-</table>
+- ✅ Atendimento técnico N1/N2/N3 (internet, telefonia, TV)
+- ✅ Apoio técnico à equipe como facilitador
+- ✅ Documentação de processos e treinamento prático
 
 ---
 
