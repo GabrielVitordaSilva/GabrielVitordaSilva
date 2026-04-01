@@ -14,9 +14,9 @@
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/gabriel.vs%40yahoo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.vs@yahoo.com)
-[![LinkedIn](https://img.shields.io/badge/Gabriel_Vitor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vitor-da-silva-220217246/)
-[![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00d9ff&label=VISITAS)](https://github.com/SEU_USUARIO)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.vs@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vitor-da-silva-220217246/)
+[![Profile Views](https://komarev.com/ghpvc/?username=GabrielVitordaSilva&style=for-the-badge&color=00d9ff&label=VISITAS)](https://github.com/GabrielVitordaSilva)
 
 </div>
 
@@ -164,12 +164,12 @@ Cursando **Análise e Desenvolvimento de Sistemas no SENAI**, com foco em Java, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielVitordaSilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVitordaSilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielVitordaSilva&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" />
 </div>
 
 ---
