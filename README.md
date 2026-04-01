@@ -147,12 +147,12 @@ Cursando **Análise e Desenvolvimento de Sistemas no SENAI**, com foco em Java, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielVitordaSilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVitordaSilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielVitordaSilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVitordaSilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielVitordaSilva&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" />
+  <img src="https://streak-stats.demolab.com?user=GabrielVitordaSilva&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&dates=ffffff" />
 </div>
 
 ---
