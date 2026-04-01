@@ -22,9 +22,11 @@
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ## 🧬 `whoami`
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```yaml
 name: Gabriel Vitor da Silva
@@ -42,7 +44,12 @@ Cursando **Análise e Desenvolvimento de Sistemas no SENAI**, com foco em Java, 
 
 > *Casado e pai — valores que ampliam minha empatia e senso de responsabilidade.*
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius:8px;" />
+</td>
+</tr>
+</table>
 
 ---
 
