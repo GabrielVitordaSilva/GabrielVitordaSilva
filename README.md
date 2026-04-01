@@ -98,7 +98,7 @@ Sou um profissional **híbrido — técnico e estratégico**, dedicado, paciente
 | Curso | Instituição | Período |
 |---|---|---|
 | Análise e Desenvolvimento de Sistemas | SENAI | 2023 – 2025 |
-| Gestão de TI | *(formação complementar)* | — |
+| Gestão de TI | Estácio | 2021 - 2024 |
 
 ---
 
